@@ -1,4 +1,4 @@
-# HZAU-denisit-precontract    
+# HZAU-dentisit-precontract    
 连着俩月约不到牙医，为了方便华中农业大学学生抢校医院牙医预约而写，就这都抢不到前20名  
 基于python的opencv开发，很粗糙，勉强能用，好像录个宏还简单点，谁要接着开发就拿去写吧，有更好的可以发出来    
 下载dentist整个儿文件夹，运行py文件
